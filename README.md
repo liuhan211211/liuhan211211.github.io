@@ -1,3 +1,3 @@
 # liuhan211211.github.io
 
-基于GitHub的信息服务平台。
+服务器订阅地址：[https://raw.githubusercontent.com/liuhan211211/liuhan211211.github.io/master/servers.txt](https://raw.githubusercontent.com/liuhan211211/liuhan211211.github.io/master/servers.txt)
